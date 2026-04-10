@@ -44,7 +44,8 @@ Tech Stack
 
 Frontend
 - React.js
-- CSS 
+- CSS
+- HTML
 
 Backend
 - Node.js
